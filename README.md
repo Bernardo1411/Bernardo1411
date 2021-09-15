@@ -13,7 +13,7 @@
 ### More about my contributions:
 <hr/>
 
-![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardo1411&show_icons=true&theme=merko)
+![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardo1411&show_icons=true&theme=radical)
 
 </br>
 
