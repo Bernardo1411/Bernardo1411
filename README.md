@@ -7,7 +7,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-fonseca-97926811b/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bernardo1411)
-[![My website](https://img.shields.io/badge/website-070707?style=for-the-badge&logo=About.me&logoColor=white)](https://bernardodev-bernardo1411.vercel.app/)
+[![My website](https://img.shields.io/badge/website-070707?style=for-the-badge&logo=About.me&logoColor=6D51C4)](https://bernardodev-bernardo1411.vercel.app/)
 
 </br>
 
